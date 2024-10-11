@@ -6,7 +6,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFEC&center=true&vCenter=true&width=800&lines=Cybersecurity+Seeker+|+Tech+Explorer+|+Networking+Ninja;BSIT+Student+at+SSUET;Crafting+Secure+and+Innovative+Tech+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFEC&center=true&vCenter=true&width=800&lines=Cybersecurity+Seeker+|+Tech+Explorer+|+Networking+Ninja;BSIT+Student+at+SSUET;Crafting+Secure+and+Innovative+Technology" alt="Typing Animation" />
 </p>
 
 ---
